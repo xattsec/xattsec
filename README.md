@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xattsec
+- 👋 Hi, I’m @xattsec, 20 y/o
 - 👀 I’m interested in Hacking and OSINT
 - 🌱 I’m currently doing a TryHackMe streak!
 - 📫 You can contact me via:
